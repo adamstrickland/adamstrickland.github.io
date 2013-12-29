@@ -1,2 +1,0 @@
-adamstrickland.github.io
-========================
