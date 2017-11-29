@@ -1,5 +1,5 @@
 name: _fractal_rabbit_
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 
 asset_pipeline:
