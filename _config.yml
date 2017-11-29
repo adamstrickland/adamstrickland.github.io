@@ -1,6 +1,6 @@
 name: _fractal_rabbit_
 markdown: kramdown
-pygments: true
+highlighter: rouge
 
 asset_pipeline:
   bundle: true            # Default = true
